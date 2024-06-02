@@ -1,0 +1,30 @@
+.commentaires-container {
+    margin-top: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .commentaires-container h3 {
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+  }
+  
+  .commentaires-container ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .commentaires-container ul li {
+    margin-bottom: 10px;
+  }
+  
+  .commentaires-container ul li strong {
+    font-weight: bold;
+  }
+  
+  .commentaires-container p {
+    font-style: italic;
+    color: #777;
+  }
+  

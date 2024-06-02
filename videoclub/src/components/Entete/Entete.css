@@ -1,0 +1,27 @@
+.entete {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+  background-color: #282c34;
+  color: white;
+}
+
+.entete nav {
+  display: flex;
+  gap: 1rem;
+}
+
+.entete nav a {
+  color: white;
+  text-decoration: none;
+}
+
+.entete nav a:hover {
+  text-decoration: underline;
+}
+
+.connexion{
+  display: flex;
+  flex-direction: row;
+}

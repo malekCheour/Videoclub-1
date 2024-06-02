@@ -1,0 +1,17 @@
+.note-container {
+    margin-top: 10px;
+    font-size: 1em;
+}
+
+.note-selection {
+    margin-top: 10px;
+}
+
+.note-selection label {
+    margin-right: 10px;
+}
+
+.note-selection button {
+    padding: 5px 10px;
+    margin-left: 10px;
+}
